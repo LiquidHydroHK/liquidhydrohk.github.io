@@ -3,8 +3,8 @@
 You probably reached this place from my [ePortfolio](https://iam.adrianl.ai). I am an undergraduate student at HKUST, majoring in Computer Engineering, expected to graduate in Spring 2021.
 
 Current Final Year Project:
-Name: `To be determined`
-Supervisor: `To be determined`
+-Name: `To be determined`
+-Supervisor: `To be determined`
 
 My interests:
 1. IoT (Internet of Things)
