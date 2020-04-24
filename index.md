@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to LiquidHydro's Github page.
 
-You can use the [editor on GitHub](https://github.com/LiquidHydroHK/liquidhydrohk.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You probably reached this place from my ePortfolio. I am an undergraduate student at HKUST, majoring in Computer Engineering. If you need to contact me, you can email your inquiries to `adrian_lai at outlook dot com`.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
