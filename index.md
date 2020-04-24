@@ -12,39 +12,15 @@ My interests:
 3. Computer Networking
 
 My skills:
-1. Proficient in C++ for backend software development
+1. Proficient in C++ for backend system/software development
 2. Proficient in C for Embedded System Designs
 2. Proficient in SQL for Database design and implementation
 3. Proficient in PHP/HTML/CSS for front-end web development
 
-### Markdown
+### GitHub Repository
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Banking Algorithm Safe Execution Order Calculation](https://github.com/LiquidHydroHK/Bankers-Algorithm)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiquidHydroHK/liquidhydrohk.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contact
 
 Having any queries? Send me an email. `adrian_lai at outlook dot com`
