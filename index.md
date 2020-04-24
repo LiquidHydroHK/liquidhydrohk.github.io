@@ -1,8 +1,21 @@
 ## Welcome to LiquidHydro's Github page.
 
-You probably reached this place from my ePortfolio. I am an undergraduate student at HKUST, majoring in Computer Engineering. If you need to contact me, you can email your inquiries to `adrian_lai at outlook dot com`.
+You probably reached this place from my [ePortfolio](https://iam.adrianl.ai). I am an undergraduate student at HKUST, majoring in Computer Engineering, expected to graduate in Spring 2021.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Current Final Year Project:
+Name: `To be determined`
+Supervisor: `To be determined`
+
+My interests:
+1. IoT (Internet of Things)
+2. Embedded System Design (STM32)
+3. Computer Networking
+
+My skills:
+1. Proficient in C++ for backend software development
+2. Proficient in C for Embedded System Designs
+2. Proficient in SQL for Database design and implementation
+3. Proficient in PHP/HTML/CSS for front-end web development
 
 ### Markdown
 
@@ -34,4 +47,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having any queries? Send me an email. `adrian_lai at outlook dot com`
