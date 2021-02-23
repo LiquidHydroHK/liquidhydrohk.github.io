@@ -16,8 +16,10 @@ My skills:
 1. Proficient in C++ for backend system/software development
 2. Proficient in C for Embedded System Designs
 3. Proficient in SQL for Database design and implementation
-4. Experience in PHP/HTML/CSS for front-end web development
-5. Experience in phpMyAdmin to manipulate a MySQL database
+4. Experience in PHP/HTML/CSS/JS for front-end web development
+5. Experience in backend system development in Google Firebase
+6. Experience in Google Firebase Firestore SDK and Auth SDK for web application development
+7. Experience in phpMyAdmin to manipulate a MySQL database
 
 ### GitHub Repository
 
@@ -26,4 +28,4 @@ My skills:
 
 ### Contact
 
-Have any queries? Send me an email. `adrian_lai at outlook dot com`
+Have any queries? Send me an email. `contact at adrianl dot ai`
